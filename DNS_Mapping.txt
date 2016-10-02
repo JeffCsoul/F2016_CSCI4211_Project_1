@@ -1,25 +1,14 @@
-www.qq.com:146.57.254.10
-www.facebook.com:157.240.2.35
-www.google.com:216.58.192.196
-gmail.com:216.58.192.197
-umn.edu:134.84.119.107
 cs.umn.edu:54.225.111.106
-cseit.umn.edu:54.225.111.106
-cselabs.umn.edu:128.101.96.152
-www.tmall.com:66.198.24.253
-www.gov.cn:202.123.110.5
-dhs.mn.gov:136.234.197.28
-mn.gov:151.111.166.96
-uchicago.edu:104.130.110.202
-google.com:216.58.192.206
-byebye.com:69.172.201.153
-tn-z.com:45.63.53.240
-vpn.tn-z.com:45.63.53.240
-overload.com:209.15.13.134
-overload.net:68.65.123.250
-physics.umn.edu:128.101.220.190
-it.umn.edu:107.20.145.149
-sua.umn.edu:160.94.46.50
+www:google:com:Host Not Found
+www.google:com:Host Not Found
 isss.umn.edu:128.101.76.151
-admissions.tc.umn.edu:134.84.159.221
-:0.0.0.0
+tc.umn.edu:134.84.119.7
+tc.umn.edy:Host Not Found
+cseit.umn.edu:54.225.111.106
+tn-z.com:45.63.53.240
+:::::::Host Not Found
+mn.gov:151.111.166.96
+colon:problem:solved:Host Not Found
+cse.umn.edu:160.94.22.198
+yahoo.com:98.139.183.24
+google.com:216.58.192.206
