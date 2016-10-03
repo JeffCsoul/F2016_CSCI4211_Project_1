@@ -1,83 +1,62 @@
-2016-10-01 22:53:01.540787: Server starts.
-2016-10-01 22:53:07.037324: Received valid query from 127.0.0.1
-2016-10-01 22:53:07.039036: No Local Cache. Created a New Cache File.
-2016-10-01 22:53:07.039067: URL queried is 'cs.umn.edu'
-2016-10-01 22:53:07.045750: Message sent back: 'Root DNS:cs.umn.edu:54.225.111.106'
-2016-10-01 22:53:08.828733: Received valid query from 127.0.0.1
-2016-10-01 22:53:08.829169: URL queried is 'cs.umn.edu'
-2016-10-01 22:53:08.829217: Message sent back: 'Local DNS:cs.umn.edu:54.225.111.106'
-2016-10-01 22:53:12.556864: Received valid query from 127.0.0.1
-2016-10-01 22:53:12.557315: URL queried is 'cs.umn.edu'
-2016-10-01 22:53:12.557382: Message sent back: 'Local DNS:cs.umn.edu:54.225.111.106'
-2016-10-01 22:53:22.141723: Received valid query from 127.0.0.1
-2016-10-01 22:53:22.142138: URL queried is 'www:google:com'
-2016-10-01 22:53:22.150670: Message sent back: 'Host Not Found'
-2016-10-01 22:53:29.094675: Received valid query from 127.0.0.1
-2016-10-01 22:53:29.095469: URL queried is 'www.google:com'
-2016-10-01 22:53:29.118024: Message sent back: 'Host Not Found'
-2016-10-01 22:53:34.253237: Received valid query from 127.0.0.1
-2016-10-01 22:53:34.253717: URL queried is 'www:google:com'
-2016-10-01 22:53:34.253757: Message sent back: 'Host Not Found'
-2016-10-01 22:53:45.365924: Received valid query from 127.0.0.1
-2016-10-01 22:53:45.366337: URL queried is 'www:google:com'
-2016-10-01 22:53:45.366384: Message sent back: 'Host Not Found'
-2016-10-01 22:54:09.038554: Received valid query from 127.0.0.1
-2016-10-01 22:54:09.039427: URL queried is 'isss.umn.edu'
-2016-10-01 22:54:09.044466: Message sent back: 'Root DNS:isss.umn.edu:128.101.76.151'
-2016-10-01 22:54:11.725813: Received valid query from 127.0.0.1
-2016-10-01 22:54:11.726338: URL queried is 'tc.umn.edu'
-2016-10-01 22:54:11.728859: Message sent back: 'Root DNS:tc.umn.edu:134.84.119.7'
-2016-10-01 22:54:14.118675: Received valid query from 127.0.0.1
-2016-10-01 22:54:14.119594: URL queried is 'tc.umn.edy'
-2016-10-01 22:54:14.138401: Message sent back: 'Host Not Found'
-2016-10-01 22:54:19.646281: Received valid query from 127.0.0.1
-2016-10-01 22:54:19.646925: URL queried is 'tc.umn.edu'
-2016-10-01 22:54:19.646993: Message sent back: 'Local DNS:tc.umn.edu:134.84.119.7'
-2016-10-01 22:54:33.590451: Received valid query from 127.0.0.1
-2016-10-01 22:54:33.590945: URL queried is 'cseit.umn.edu'
-2016-10-01 22:54:33.593789: Message sent back: 'Root DNS:cseit.umn.edu:54.225.111.106'
-2016-10-01 22:54:36.846860: Received valid query from 127.0.0.1
-2016-10-01 22:54:36.847344: URL queried is 'cseit.umn.edu'
-2016-10-01 22:54:36.847418: Message sent back: 'Local DNS:cseit.umn.edu:54.225.111.106'
-2016-10-01 22:54:38.670529: Received valid query from 127.0.0.1
-2016-10-01 22:54:38.671095: URL queried is 'tn-z.com'
-2016-10-01 22:54:38.712449: Message sent back: 'Root DNS:tn-z.com:45.63.53.240'
-2016-10-01 22:54:40.375223: Received valid query from 127.0.0.1
-2016-10-01 22:54:40.375678: URL queried is 'tn-z.com'
-2016-10-01 22:54:40.375735: Message sent back: 'Local DNS:tn-z.com:45.63.53.240'
-2016-10-01 22:54:45.222658: Received valid query from 127.0.0.1
-2016-10-01 22:54:45.223108: URL queried is '::::::'
-2016-10-01 22:54:45.225313: Message sent back: 'Host Not Found'
-2016-10-01 22:54:56.791426: Received valid query from 127.0.0.1
-2016-10-01 22:54:56.792179: URL queried is '::::::'
-2016-10-01 22:54:56.792235: Message sent back: 'Host Not Found'
-2016-10-01 22:55:25.616045: Received valid query from 127.0.0.1
-2016-10-01 22:55:25.616895: URL queried is 'mn.gov'
-2016-10-01 22:55:25.619644: Message sent back: 'Root DNS:mn.gov:151.111.166.96'
-2016-10-01 22:55:28.231694: Received valid query from 127.0.0.1
-2016-10-01 22:55:28.232330: URL queried is 'mn.gov'
-2016-10-01 22:55:28.232407: Message sent back: 'Local DNS:mn.gov:151.111.166.96'
-2016-10-01 22:55:56.296240: Received valid query from 127.0.0.1
-2016-10-01 22:55:56.296920: URL queried is 'colon:problem:solved'
-2016-10-01 22:55:56.298977: Message sent back: 'Host Not Found'
-2016-10-01 22:56:09.824450: Received valid query from 127.0.0.1
-2016-10-01 22:56:09.825287: URL queried is 'cse.umn.edu'
-2016-10-01 22:56:09.827887: Message sent back: 'Root DNS:cse.umn.edu:160.94.22.198'
-2016-10-01 22:56:11.680320: Received valid query from 127.0.0.1
-2016-10-01 22:56:11.680709: URL queried is 'cse.umn.edu'
-2016-10-01 22:56:11.680785: Message sent back: 'Local DNS:cse.umn.edu:160.94.22.198'
-2016-10-01 22:57:10.874084: Exit
-2016-10-01 22:57:13.819500: Server starts.
-2016-10-01 22:57:19.906165: Received valid query from 127.0.0.1
-2016-10-01 22:57:19.907054: URL queried is 'yahoo.com'
-2016-10-01 22:57:19.920939: Message sent back: 'Root DNS:yahoo.com:98.139.183.24'
-2016-10-01 22:57:22.521775: Received valid query from 127.0.0.1
-2016-10-01 22:57:22.522195: URL queried is 'yahoo.com'
-2016-10-01 22:57:22.522255: Message sent back: 'Local DNS:yahoo.com:98.139.183.24'
-2016-10-01 22:57:24.637439: Received valid query from 127.0.0.1
-2016-10-01 22:57:24.638215: URL queried is 'google.com'
-2016-10-01 22:57:24.642639: Message sent back: 'Root DNS:google.com:216.58.192.206'
-2016-10-01 22:57:27.529880: Received valid query from 127.0.0.1
-2016-10-01 22:57:27.530348: URL queried is 'google.com'
-2016-10-01 22:57:27.530429: Message sent back: 'Local DNS:google.com:216.58.192.206'
-2016-10-01 22:57:33.050674: Exit
+2016-10-03 16:51:14.090083: Server starts.
+2016-10-03 16:51:24.037140: Received valid query from 127.0.0.1
+2016-10-03 16:51:24.038672: No Local Cache. Created a New Cache File.
+2016-10-03 16:51:24.038689: URL queried is 'facebook.com'
+2016-10-03 16:51:24.045088: Message sent back: 'Root DNS:facebook.com:69.171.230.68'
+2016-10-03 16:51:31.158303: Received valid query from 127.0.0.1
+2016-10-03 16:51:31.159002: URL queried is 'facebook.com'
+2016-10-03 16:51:31.159084: Message sent back: 'Local DNS:facebook.com:69.171.230.68'
+2016-10-03 16:51:35.145501: Received valid query from 127.0.0.1
+2016-10-03 16:51:35.145949: URL queried is 'google.com'
+2016-10-03 16:51:35.148453: Message sent back: 'Root DNS:google.com:216.58.192.238'
+2016-10-03 16:51:36.906841: Received valid query from 127.0.0.1
+2016-10-03 16:51:36.907821: URL queried is 'google.com'
+2016-10-03 16:51:36.907895: Message sent back: 'Local DNS:google.com:216.58.192.238'
+2016-10-03 16:51:39.016446: Received valid query from 127.0.0.1
+2016-10-03 16:51:39.016802: URL queried is 'cs.umn.edu'
+2016-10-03 16:51:39.019409: Message sent back: 'Root DNS:cs.umn.edu:54.225.111.106'
+2016-10-03 16:51:40.990720: Received valid query from 127.0.0.1
+2016-10-03 16:51:40.991306: URL queried is 'cs.umn.edu'
+2016-10-03 16:51:40.991379: Message sent back: 'Local DNS:cs.umn.edu:54.225.111.106'
+2016-10-03 16:51:46.893938: Received valid query from 127.0.0.1
+2016-10-03 16:51:46.894392: URL queried is 'www:umn.edu'
+2016-10-03 16:51:46.914521: Message sent back: 'Host Not Found'
+2016-10-03 16:51:52.036597: Received valid query from 127.0.0.1
+2016-10-03 16:51:52.037211: URL queried is 'www:umn.edu'
+2016-10-03 16:51:52.037288: Message sent back: 'Host Not Found'
+2016-10-03 16:51:57.733074: Received valid query from 127.0.0.1
+2016-10-03 16:51:57.733333: URL queried is 'cs.umn.edu'
+2016-10-03 16:51:57.733398: Message sent back: 'Local DNS:cs.umn.edu:54.225.111.106'
+2016-10-03 16:52:00.636526: Received valid query from 127.0.0.1
+2016-10-03 16:52:00.636940: URL queried is 'cseit.umn.edu'
+2016-10-03 16:52:00.638657: Message sent back: 'Root DNS:cseit.umn.edu:54.225.111.106'
+2016-10-03 16:52:04.941873: Received valid query from 127.0.0.1
+2016-10-03 16:52:04.942250: URL queried is 'www.gov.cn'
+2016-10-03 16:52:05.442569: Message sent back: 'Root DNS:www.gov.cn:106.48.13.49'
+2016-10-03 16:52:10.172928: Received valid query from 127.0.0.1
+2016-10-03 16:52:10.173510: URL queried is 'www.gov.cn'
+2016-10-03 16:52:10.173592: Message sent back: 'Local DNS:www.gov.cn:106.48.13.49'
+2016-10-03 16:52:16.466151: Received valid query from 127.0.0.1
+2016-10-03 16:52:16.466484: URL queried is 'helloworld'
+2016-10-03 16:52:16.485311: Message sent back: 'Host Not Found'
+2016-10-03 16:52:23.755300: Received valid query from 127.0.0.1
+2016-10-03 16:52:23.755980: URL queried is 'helloworld'
+2016-10-03 16:52:23.756078: Message sent back: 'Host Not Found'
+2016-10-03 16:52:26.009116: Received valid query from 127.0.0.1
+2016-10-03 16:52:26.009556: URL queried is 'cs.umn.edu'
+2016-10-03 16:52:26.009622: Message sent back: 'Local DNS:cs.umn.edu:54.225.111.106'
+2016-10-03 16:52:30.095800: Received valid query from 127.0.0.1
+2016-10-03 16:52:30.096361: URL queried is 'google.com'
+2016-10-03 16:52:30.096431: Message sent back: 'Local DNS:google.com:216.58.192.238'
+2016-10-03 16:52:33.545389: Received valid query from 127.0.0.1
+2016-10-03 16:52:33.545775: URL queried is 'gmail.com'
+2016-10-03 16:52:33.548271: Message sent back: 'Root DNS:gmail.com:216.58.192.229'
+2016-10-03 16:52:42.109247: Received valid query from 127.0.0.1
+2016-10-03 16:52:42.109938: URL queried is 'cs.umn.edu'
+2016-10-03 16:52:42.110002: Message sent back: 'Local DNS:cs.umn.edu:54.225.111.106'
+2016-10-03 16:52:46.049408: Received valid query from 127.0.0.1
+2016-10-03 16:52:46.049812: URL queried is 'gmail.com'
+2016-10-03 16:52:46.049910: Message sent back: 'Local DNS:gmail.com:216.58.192.229'
+2016-10-03 16:52:52.793592: Exit
+2016-10-03 16:55:17.125604: Server starts.
+2016-10-03 16:55:21.343787: Exit

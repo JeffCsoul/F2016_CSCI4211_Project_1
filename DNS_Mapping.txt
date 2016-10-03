@@ -1,14 +1,8 @@
+facebook.com:69.171.230.68
+google.com:216.58.192.238
 cs.umn.edu:54.225.111.106
-www:google:com:Host Not Found
-www.google:com:Host Not Found
-isss.umn.edu:128.101.76.151
-tc.umn.edu:134.84.119.7
-tc.umn.edy:Host Not Found
+www:umn.edu:Host Not Found
 cseit.umn.edu:54.225.111.106
-tn-z.com:45.63.53.240
-:::::::Host Not Found
-mn.gov:151.111.166.96
-colon:problem:solved:Host Not Found
-cse.umn.edu:160.94.22.198
-yahoo.com:98.139.183.24
-google.com:216.58.192.206
+www.gov.cn:106.48.13.49
+helloworld:Host Not Found
+gmail.com:216.58.192.229
