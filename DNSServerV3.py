@@ -42,7 +42,7 @@ def main():
     logFile.close()
 
     #start the control thread, which may terminate the program while encountering input "exit"
-    monitor = threading.Thread(target=monitorQuit, args=[])
+    monitor = threading.Thread(target=monitorQuit, args=[sSock])
     monitor.start()
 
     print("Server is listening...")
@@ -119,7 +119,7 @@ def dnsQuery(connectionSock, srcAddress):
     sSock.close()
     #Close the server socket 
 
-def monitorQuit():
+def monitorQuit(sSock):
     while 1:
         sentence = input()
         if sentence == "exit":
@@ -128,6 +128,7 @@ def monitorQuit():
             logFile = open('server_log.txt', 'a')
             logFile.write(str(datetime.now()) + ": Exit\n")
             logFile.close()
+            sSock.close()
             os.kill(os.getpid(),9)
 
 main()
