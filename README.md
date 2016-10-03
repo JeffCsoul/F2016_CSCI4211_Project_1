@@ -11,10 +11,14 @@ Server:
 	Run:
 		Using 'python3 DNSServerV3.py' to start the server.
 		Enter 'exit' to kill the server processor.
+    Log file: 
+        server_log.txt
 Client:
 	Run:
 		Using 'python3 DNSClientV3.py' to start the client.
 		Enter 'exit' to exit.
+    Log file:
+        client_log.txt
 ~~~
 
 The function main() is to create socket for listening to the client and thread a processor to call dnsQuery() when it received a query. The maximum length of waiting queue which is used to handle multiple queries is 20.
