@@ -1,65 +1,94 @@
-2016-10-03 16:51:19.717486: Client starts.
-2016-10-03 16:51:19.720228: Type in a domain name to query, or 'q' to quit:
-2016-10-03 16:51:24.035997: facebook.com
-2016-10-03 16:51:24.046384: Received: Root DNS:facebook.com:69.171.230.68
-2016-10-03 16:51:24.048454: Type in a domain name to query, or 'q' to quit:
-2016-10-03 16:51:31.157194: facebook.com
-2016-10-03 16:51:31.160750: Received: Local DNS:facebook.com:69.171.230.68
-2016-10-03 16:51:31.163077: Type in a domain name to query, or 'q' to quit:
-2016-10-03 16:51:35.144848: google.com
-2016-10-03 16:51:35.149849: Received: Root DNS:google.com:216.58.192.238
-2016-10-03 16:51:35.152347: Type in a domain name to query, or 'q' to quit:
-2016-10-03 16:51:36.905963: google.com
-2016-10-03 16:51:36.909443: Received: Local DNS:google.com:216.58.192.238
-2016-10-03 16:51:36.911231: Type in a domain name to query, or 'q' to quit:
-2016-10-03 16:51:39.015711: cs.umn.edu
-2016-10-03 16:51:39.021133: Received: Root DNS:cs.umn.edu:54.225.111.106
-2016-10-03 16:51:39.023283: Type in a domain name to query, or 'q' to quit:
-2016-10-03 16:51:40.989762: cs.umn.edu
-2016-10-03 16:51:40.993074: Received: Local DNS:cs.umn.edu:54.225.111.106
-2016-10-03 16:51:40.995120: Type in a domain name to query, or 'q' to quit:
-2016-10-03 16:51:46.893281: www:umn.edu
-2016-10-03 16:51:46.916833: Received: Host Not Found
-2016-10-03 16:51:46.918986: Type in a domain name to query, or 'q' to quit:
-2016-10-03 16:51:52.035387: www:umn.edu
-2016-10-03 16:51:52.039056: Received: Host Not Found
-2016-10-03 16:51:52.041797: Type in a domain name to query, or 'q' to quit:
-2016-10-03 16:51:57.732565: cs.umn.edu
-2016-10-03 16:51:57.734776: Received: Local DNS:cs.umn.edu:54.225.111.106
-2016-10-03 16:51:57.736802: Type in a domain name to query, or 'q' to quit:
-2016-10-03 16:52:00.635981: cseit.umn.edu
-2016-10-03 16:52:00.639666: Received: Root DNS:cseit.umn.edu:54.225.111.106
-2016-10-03 16:52:00.641176: Type in a domain name to query, or 'q' to quit:
-2016-10-03 16:52:04.941237: www.gov.cn
-2016-10-03 16:52:05.443775: Received: Root DNS:www.gov.cn:106.48.13.49
-2016-10-03 16:52:05.446034: Type in a domain name to query, or 'q' to quit:
-2016-10-03 16:52:10.171694: www.gov.cn
-2016-10-03 16:52:10.175267: Received: Local DNS:www.gov.cn:106.48.13.49
-2016-10-03 16:52:10.177679: Type in a domain name to query, or 'q' to quit:
-2016-10-03 16:52:16.465252: helloworld
-2016-10-03 16:52:16.486555: Received: Host Not Found
-2016-10-03 16:52:16.488706: Type in a domain name to query, or 'q' to quit:
-2016-10-03 16:52:18.170466: q
-2016-10-03 16:52:18.170521: Exit
-2016-10-03 16:52:19.688436: Client starts.
-2016-10-03 16:52:19.696354: Type in a domain name to query, or 'q' to quit:
-2016-10-03 16:52:23.754139: helloworld
-2016-10-03 16:52:23.757901: Received: Host Not Found
-2016-10-03 16:52:23.760558: Type in a domain name to query, or 'q' to quit:
-2016-10-03 16:52:26.008251: cs.umn.edu
-2016-10-03 16:52:26.011174: Received: Local DNS:cs.umn.edu:54.225.111.106
-2016-10-03 16:52:26.013059: Type in a domain name to query, or 'q' to quit:
-2016-10-03 16:52:30.094711: google.com
-2016-10-03 16:52:30.098303: Received: Local DNS:google.com:216.58.192.238
-2016-10-03 16:52:30.100965: Type in a domain name to query, or 'q' to quit:
-2016-10-03 16:52:33.544815: gmail.com
-2016-10-03 16:52:33.549746: Received: Root DNS:gmail.com:216.58.192.229
-2016-10-03 16:52:33.552121: Type in a domain name to query, or 'q' to quit:
-2016-10-03 16:52:42.108192: cs.umn.edu
-2016-10-03 16:52:42.112453: Received: Local DNS:cs.umn.edu:54.225.111.106
-2016-10-03 16:52:42.114823: Type in a domain name to query, or 'q' to quit:
-2016-10-03 16:52:46.048714: gmail.com
-2016-10-03 16:52:46.051588: Received: Local DNS:gmail.com:216.58.192.229
-2016-10-03 16:52:46.054712: Type in a domain name to query, or 'q' to quit:
-2016-10-03 16:52:50.173844: q
-2016-10-03 16:52:50.173906: Exit
+2016-10-04 12:22:35.481828: Client starts.
+2016-10-04 12:22:35.483331: Sent a hangup message to the server.
+2016-10-04 12:22:35.484647: Type in a domain name to query, or 'q' to quit:
+2016-10-04 12:22:50.744216: facebook.com
+2016-10-04 12:22:50.774030: Received: Root DNS:facebook.com:173.252.74.68
+2016-10-04 12:22:50.775316: Type in a domain name to query, or 'q' to quit:
+2016-10-04 12:23:11.645439: www:baidu:com
+2016-10-04 12:23:11.711392: Received: Host Not Found
+2016-10-04 12:23:11.713364: Type in a domain name to query, or 'q' to quit:
+2016-10-04 12:25:24.852332: google.com
+2016-10-04 12:25:24.884902: Received: Root DNS:google.com:4.59.67.39
+2016-10-04 12:25:24.886696: Type in a domain name to query, or 'q' to quit:
+2016-10-04 12:25:29.877826: www:baidu:com
+2016-10-04 12:25:29.878488: Received: Host Not Found
+2016-10-04 12:25:29.880079: Type in a domain name to query, or 'q' to quit:
+2016-10-04 12:25:38.823319: q
+2016-10-04 12:25:38.823428: Exit
+2016-10-04 12:29:16.776894: Client starts.
+2016-10-04 12:29:16.778260: Sent a hangup message to the server.
+2016-10-04 12:29:16.779625: Type in a domain name to query, or 'q' to quit:
+2016-10-04 12:29:21.247693: facebook.com
+2016-10-04 12:29:21.249283: Received: Local DNS:facebook.com:173.252.74.68
+2016-10-04 12:29:21.250791: Type in a domain name to query, or 'q' to quit:
+2016-10-04 12:29:25.078501: google.com
+2016-10-04 12:29:25.079172: Received: Local DNS:google.com:4.59.67.39
+2016-10-04 12:29:25.081010: Type in a domain name to query, or 'q' to quit:
+2016-10-04 12:29:28.824246: google.com
+2016-10-04 12:29:28.824907: Received: Local DNS:google.com:4.59.67.39
+2016-10-04 12:29:28.826638: Type in a domain name to query, or 'q' to quit:
+2016-10-04 12:29:35.875677: cs.umn.edu
+2016-10-04 12:29:35.903180: Received: Root DNS:cs.umn.edu:54.225.111.106
+2016-10-04 12:29:35.906263: Type in a domain name to query, or 'q' to quit:
+2016-10-04 12:29:38.268587: cs.umn.edu
+2016-10-04 12:29:38.269301: Received: Local DNS:cs.umn.edu:54.225.111.106
+2016-10-04 12:29:38.271204: Type in a domain name to query, or 'q' to quit:
+2016-10-04 12:29:41.476355: www.gov.cn
+2016-10-04 12:29:41.978837: Received: Root DNS:www.gov.cn:106.48.13.46
+2016-10-04 12:29:41.980261: Type in a domain name to query, or 'q' to quit:
+2016-10-04 12:29:44.855130: www.gov.cn
+2016-10-04 12:29:44.855854: Received: Local DNS:www.gov.cn:106.48.13.46
+2016-10-04 12:29:44.857652: Type in a domain name to query, or 'q' to quit:
+2016-10-04 12:29:54.563557: colon:colon:colon
+2016-10-04 12:29:54.610274: Received: Host Not Found
+2016-10-04 12:29:54.611796: Type in a domain name to query, or 'q' to quit:
+2016-10-04 12:30:05.754599: colon:colon:colon
+2016-10-04 12:30:05.755283: Received: Host Not Found
+2016-10-04 12:30:05.757106: Type in a domain name to query, or 'q' to quit:
+2016-10-04 12:30:12.354784: facebook.com
+2016-10-04 12:30:12.355528: Received: Local DNS:facebook.com:173.252.74.68
+2016-10-04 12:30:12.357417: Type in a domain name to query, or 'q' to quit:
+2016-10-04 12:30:16.918462: www.gmail.com
+2016-10-04 12:30:16.952347: Received: Root DNS:www.gmail.com:216.58.216.197
+2016-10-04 12:30:16.953988: Type in a domain name to query, or 'q' to quit:
+2016-10-04 12:30:20.481370: www.gmail.com
+2016-10-04 12:30:20.482075: Received: Local DNS:www.gmail.com:216.58.216.197
+2016-10-04 12:30:20.483943: Type in a domain name to query, or 'q' to quit:
+2016-10-04 12:30:23.446987: mn.gov
+2016-10-04 12:30:23.470240: Received: Root DNS:mn.gov:151.111.166.96
+2016-10-04 12:30:23.471686: Type in a domain name to query, or 'q' to quit:
+2016-10-04 12:30:24.815956: mn.gov
+2016-10-04 12:30:24.816646: Received: Local DNS:mn.gov:151.111.166.96
+2016-10-04 12:30:24.818449: Type in a domain name to query, or 'q' to quit:
+2016-10-04 12:30:30.957557: mn.gov
+2016-10-04 12:30:30.958319: Received: Local DNS:mn.gov:151.111.166.96
+2016-10-04 12:30:30.960117: Type in a domain name to query, or 'q' to quit:
+2016-10-04 12:30:32.725420: mv.gov
+2016-10-04 12:30:32.772740: Received: Host Not Found
+2016-10-04 12:30:32.774611: Type in a domain name to query, or 'q' to quit:
+2016-10-04 12:30:47.091655: admissions.tc.umn.edu
+2016-10-04 12:30:47.115910: Received: Root DNS:admissions.tc.umn.edu:134.84.159.221
+2016-10-04 12:30:47.117411: Type in a domain name to query, or 'q' to quit:
+2016-10-04 12:30:52.254295: cs.umn.edu
+2016-10-04 12:30:52.255047: Received: Local DNS:cs.umn.edu:54.225.111.106
+2016-10-04 12:30:52.256767: Type in a domain name to query, or 'q' to quit:
+2016-10-04 12:30:55.591003: cseit.umn.edu
+2016-10-04 12:30:55.636200: Received: Root DNS:cseit.umn.edu:54.225.111.106
+2016-10-04 12:30:55.637872: Type in a domain name to query, or 'q' to quit:
+2016-10-04 12:31:05.203471: atlas.cselabs.umn.edu
+2016-10-04 12:31:05.205735: Received: Root DNS:atlas.cselabs.umn.edu:128.101.38.193
+2016-10-04 12:31:05.207086: Type in a domain name to query, or 'q' to quit:
+2016-10-04 12:31:08.391244: tn-z.com
+2016-10-04 12:31:08.452037: Received: Root DNS:tn-z.com:45.63.53.240
+2016-10-04 12:31:08.453523: Type in a domain name to query, or 'q' to quit:
+2016-10-04 12:31:10.939089: tn-z.com
+2016-10-04 12:31:10.939806: Received: Local DNS:tn-z.com:45.63.53.240
+2016-10-04 12:31:10.941761: Type in a domain name to query, or 'q' to quit:
+2016-10-04 12:31:14.980797: tn-z.com
+2016-10-04 12:31:14.981533: Received: Local DNS:tn-z.com:45.63.53.240
+2016-10-04 12:31:14.983348: Type in a domain name to query, or 'q' to quit:
+2016-10-04 12:31:17.904657: helloworld
+2016-10-04 12:31:17.952874: Received: Host Not Found
+2016-10-04 12:31:17.954635: Type in a domain name to query, or 'q' to quit:
+2016-10-04 12:31:20.862385: q
+2016-10-04 12:31:20.862499: Exit

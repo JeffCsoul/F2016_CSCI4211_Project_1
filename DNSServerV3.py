@@ -13,8 +13,8 @@ def main():
     logFile.write(str(datetime.now()) + ": Server starts.\n")
 
     try:
-        #create a socket object, SOCK_STREAM for TCP    
-        sSock = socket(AF_INET, SOCK_STREAM)    
+        #create a socket object, SOCK_STREAM for TCP
+        sSock = socket(AF_INET, SOCK_STREAM)
     except error as msg:
         # Handle exception
         serverhost_created = False
@@ -36,7 +36,7 @@ def main():
 
     # If the socket cannot be opened, quit the program.
     if not serverhost_created:
-        logFile.write(str(datetime.now()) + ": Server quit with error.\n")        
+        logFile.write(str(datetime.now()) + ": Server quit with error.\n")
         logFile.close()
         quit()
     logFile.close()
@@ -61,8 +61,13 @@ def dnsQuery(connectionSock, srcAddress):
         sSock.close()
         return
     logFile = open('server_log.txt', 'a')
-    logFile.write(str(datetime.now()) + ": Received valid query from " + str(srcAddress) +'\n')
+    if data == "hangup":
+        sSock.close()
+        logFile.write(str(datetime.now()) + ": Received a hangup message from " + str(srcAddress) + ".\n")
+        logFile.close()
+        return
 
+    logFile.write(str(datetime.now()) + ": Received valid query from " + str(srcAddress) +'\n')
     #Begin to check the query
     try:
         DNSCache = open("DNS_Mapping.txt", 'r')
@@ -73,18 +78,13 @@ def dnsQuery(connectionSock, srcAddress):
         logFile.write(str(datetime.now()) + ": No Local Cache. Created a New Cache File.\n")
 
     #If the query is "hangup" close the socket
-    if data == "hangup":
-        sSock.close()
-        logFile.write(str(datetime.now()) + ": URL queried is 'hangup', close this socket.\n")  
-        logFile.close()      
-        return
     #Extract domain name.
     domainName = data
-    logFile.write(str(datetime.now()) + ": URL queried is '" + domainName + "'\n")        
-    IPanswer = ""    
+    logFile.write(str(datetime.now()) + ": URL queried is '" + domainName + "'\n")
+    IPanswer = ""
     try:
-        #First, check local DNS which is a file you created when the first query was successfully resolved(e.g. DNS_mapping.txt) 
-        #If you find the result in this file, return the result with the appropriate format to the client   
+        #First, check local DNS which is a file you created when the first query was successfully resolved(e.g. DNS_mapping.txt)
+        #If you find the result in this file, return the result with the appropriate format to the client
         cacheDNSRecord = DNSCache.readline()
         recordFound = False
         while cacheDNSRecord != '' and not recordFound:
@@ -117,7 +117,7 @@ def dnsQuery(connectionSock, srcAddress):
     logFile.close()
     sSock.send(IPanswer.encode())
     sSock.close()
-    #Close the server socket 
+    #Close the server socket
 
 def monitorQuit(sSock):
     while 1:

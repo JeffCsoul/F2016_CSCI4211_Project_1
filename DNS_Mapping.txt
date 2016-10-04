@@ -1,8 +1,14 @@
-facebook.com:69.171.230.68
-google.com:216.58.192.238
+facebook.com:173.252.74.68
+www:baidu:com:Host Not Found
+google.com:4.59.67.39
 cs.umn.edu:54.225.111.106
-www:umn.edu:Host Not Found
+www.gov.cn:106.48.13.46
+colon:colon:colon:Host Not Found
+www.gmail.com:216.58.216.197
+mn.gov:151.111.166.96
+mv.gov:Host Not Found
+admissions.tc.umn.edu:134.84.159.221
 cseit.umn.edu:54.225.111.106
-www.gov.cn:106.48.13.49
+atlas.cselabs.umn.edu:128.101.38.193
+tn-z.com:45.63.53.240
 helloworld:Host Not Found
-gmail.com:216.58.192.229
