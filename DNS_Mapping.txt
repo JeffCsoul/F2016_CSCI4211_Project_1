@@ -12,3 +12,6 @@ cseit.umn.edu:54.225.111.106
 atlas.cselabs.umn.edu:128.101.38.193
 tn-z.com:45.63.53.240
 helloworld:Host Not Found
+www.baidu.com:103.235.46.39
+lalala:hello:Host Not Found
+mit.edu:23.197.34.14

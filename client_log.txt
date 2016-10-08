@@ -92,3 +92,35 @@
 2016-10-04 12:31:17.954635: Type in a domain name to query, or 'q' to quit:
 2016-10-04 12:31:20.862385: q
 2016-10-04 12:31:20.862499: Exit
+2016-10-08 00:38:01.146559: Client starts.
+2016-10-08 00:38:01.147749: Sent a hangup message to the server.
+2016-10-08 00:38:01.149911: Type in a domain name to query, or 'q' to quit:
+2016-10-08 00:38:03.848864: www.baidu.com
+2016-10-08 00:38:03.883955: Received: Root DNS:www.baidu.com:103.235.46.39
+2016-10-08 00:38:03.885066: Type in a domain name to query, or 'q' to quit:
+2016-10-08 00:38:07.053686: facebook.com
+2016-10-08 00:38:07.054313: Received: Local DNS:facebook.com:173.252.74.68
+2016-10-08 00:38:07.055367: Type in a domain name to query, or 'q' to quit:
+2016-10-08 00:39:33.802737: mn.gov
+2016-10-08 00:39:33.803454: Received: Local DNS:mn.gov:151.111.166.96
+2016-10-08 00:39:33.804864: Type in a domain name to query, or 'q' to quit:
+2016-10-08 00:39:40.861756: lalala:hello
+2016-10-08 00:39:40.950752: Received: Host Not Found
+2016-10-08 00:39:40.952223: Type in a domain name to query, or 'q' to quit:
+2016-10-08 00:39:44.974587: helloworld
+2016-10-08 00:39:44.975081: Received: Host Not Found
+2016-10-08 00:39:44.975963: Type in a domain name to query, or 'q' to quit:
+2016-10-08 00:40:10.950862: www.gov.cn
+2016-10-08 00:40:10.951567: Received: Local DNS:www.gov.cn:106.48.13.46
+2016-10-08 00:40:10.953267: Type in a domain name to query, or 'q' to quit:
+2016-10-08 00:40:13.804590: mn.gov
+2016-10-08 00:40:13.805269: Received: Local DNS:mn.gov:151.111.166.96
+2016-10-08 00:40:13.806692: Type in a domain name to query, or 'q' to quit:
+2016-10-08 00:40:16.955909: mit.edu
+2016-10-08 00:40:16.996974: Received: Root DNS:mit.edu:23.197.34.14
+2016-10-08 00:40:16.998177: Type in a domain name to query, or 'q' to quit:
+2016-10-08 00:40:19.844034: cs.umn.edu
+2016-10-08 00:40:19.844472: Received: Local DNS:cs.umn.edu:54.225.111.106
+2016-10-08 00:40:19.845436: Type in a domain name to query, or 'q' to quit:
+2016-10-08 00:40:25.106710: q
+2016-10-08 00:40:25.106822: Exit

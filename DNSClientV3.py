@@ -67,5 +67,6 @@ def main():
         print("Received:", data) # Print out the result.
         logFile.write(str(datetime.now()) + ": Received: " + data + '\n')
         logFile.close()
+        cSock.close()
 
 main()

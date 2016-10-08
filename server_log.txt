@@ -89,3 +89,33 @@
 2016-10-04 12:31:17.905063: URL queried is 'helloworld'
 2016-10-04 12:31:17.952574: Message sent back: 'Host Not Found'
 2016-10-04 12:31:25.096252: Exit
+2016-10-08 00:37:40.843553: Server starts.
+2016-10-08 00:38:01.148110: Received a hangup message from 127.0.0.1.
+2016-10-08 00:38:03.849131: Received valid query from 127.0.0.1
+2016-10-08 00:38:03.849209: URL queried is 'www.baidu.com'
+2016-10-08 00:38:03.883630: Message sent back: 'Root DNS:www.baidu.com:103.235.46.39'
+2016-10-08 00:38:07.053952: Received valid query from 127.0.0.1
+2016-10-08 00:38:07.054027: URL queried is 'facebook.com'
+2016-10-08 00:38:07.054109: Message sent back: 'Local DNS:facebook.com:173.252.74.68'
+2016-10-08 00:39:33.803032: Received valid query from 127.0.0.1
+2016-10-08 00:39:33.803106: URL queried is 'mn.gov'
+2016-10-08 00:39:33.803216: Message sent back: 'Local DNS:mn.gov:151.111.166.96'
+2016-10-08 00:39:40.862070: Received valid query from 127.0.0.1
+2016-10-08 00:39:40.862147: URL queried is 'lalala:hello'
+2016-10-08 00:39:40.950478: Message sent back: 'Host Not Found'
+2016-10-08 00:39:44.974821: Received valid query from 127.0.0.1
+2016-10-08 00:39:44.974865: URL queried is 'helloworld'
+2016-10-08 00:39:44.974929: Message sent back: 'Host Not Found'
+2016-10-08 00:40:10.951130: Received valid query from 127.0.0.1
+2016-10-08 00:40:10.951202: URL queried is 'www.gov.cn'
+2016-10-08 00:40:10.951297: Message sent back: 'Local DNS:www.gov.cn:106.48.13.46'
+2016-10-08 00:40:13.804883: Received valid query from 127.0.0.1
+2016-10-08 00:40:13.804957: URL queried is 'mn.gov'
+2016-10-08 00:40:13.805053: Message sent back: 'Local DNS:mn.gov:151.111.166.96'
+2016-10-08 00:40:16.956185: Received valid query from 127.0.0.1
+2016-10-08 00:40:16.956260: URL queried is 'mit.edu'
+2016-10-08 00:40:16.996748: Message sent back: 'Root DNS:mit.edu:23.197.34.14'
+2016-10-08 00:40:19.844229: Received valid query from 127.0.0.1
+2016-10-08 00:40:19.844273: URL queried is 'cs.umn.edu'
+2016-10-08 00:40:19.844322: Message sent back: 'Local DNS:cs.umn.edu:54.225.111.106'
+2016-10-08 00:40:28.069841: Exit
